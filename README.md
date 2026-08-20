@@ -5,8 +5,8 @@ Este projeto marca o meu primeiro desenvolvimento prático de uma API. O objetiv
 
 Começamos entendendo de fato o que seria uma API, e seguimos no exemplo de:
 
-Backend     =>     API    =>   FrontEnd
-Cozinheiro  =>    Garçom   =>   Cliente
+Backend(Cozinheiro)     =>     API(Garçom)    =>   FrontEnd(Cliente)
+
 
 Logo após, aprendemos os nossos métodos e como eles funcionam fazendo alterações e ilustrando o nosso banco de dados (usamos muito a expressão lambda para identificação e alteração de produtos no nosso CRUD):
 
