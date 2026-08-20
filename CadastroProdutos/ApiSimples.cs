@@ -13,7 +13,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Suporte aos Controllers (Essencial para o LoginController funcionar)
 builder.Services.AddControllers();
 
-// Configuração do Banco de Dados SQLite
+//Configuração do Banco de Dados SQLite
 builder.Services.AddDbContext<ApplicationDbContext>(options => 
     options.UseSqlite("Data Source=Produtos.db"));
 
